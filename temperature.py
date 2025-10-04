@@ -1,5 +1,4 @@
-temp_fahrenheit = (temp_celsius * 9/5) + 32
-print(f"Temperature in Fahrenheit: {temp_fahrenheit}°F")
+
 # Temperature Check Program with Celsius to Fahrenheit Conversion
 
 # Input temperature in Celsius
